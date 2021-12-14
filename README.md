@@ -64,3 +64,4 @@ git add -A
 git commit -m "initial commit"
 git push origin master
 ```
+- Connect the theme with Github on Shopify
